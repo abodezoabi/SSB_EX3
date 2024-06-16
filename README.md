@@ -1,5 +1,5 @@
 Catan Game Simulation
-Welcome to the Catan Game Simulation project, implemented in C++. This project replicates the mechanics of the popular board game Catan, focusing on strategic resource management, settlement building, and competitive gameplay dynamics.
+implemented in C++. This project replicates the mechanics of the popular board game Catan, focusing on strategic resource management, settlement building, and competitive gameplay dynamics.
 
 Game Overview
 Catan is a strategic board game where players compete to establish settlements and cities on an island by collecting and trading resources such as wood, brick, ore, wheat, and sheep. Players earn victory points through strategic decisions and the expansion of their territories.
