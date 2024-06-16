@@ -45,27 +45,23 @@ To compile and execute the main game demo:
 
 Compile the executable:
 
-bash
-Copy code
+
 make catan
 Run the game:
 
-bash
-Copy code
+
 ./catan
 Running Tests
 To compile and execute unit tests:
 
 Compile the test executable:
 
-bash
-Copy code
+
 make test
 
 Execute the tests:
 
-bash
-Copy code
+
 ./test
 
 EMAIL: abodezoabi2000@gmail.com 
